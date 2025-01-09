@@ -1,11 +1,7 @@
 <div align="center">
   <img src="logo.svg" style="height: 60px" alt="@bitnoise/react-scheduler">
   <hr />
-  <p align="center">
-    ✨ <a href="https://scheduler.bitnoise.pl/">https://scheduler.bitnoise.pl/</a> ✨
-    <br/>
-    Open sourced, typescript oriented, light-weight, and ultra fast React Component for creating gantt charts.
-  </p>
+
   <div align="center">
     <a href="https://bit.ly/react_scheduler">Youtube Tutorial</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
