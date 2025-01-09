@@ -63,6 +63,12 @@ React-scheduler/
 └── README.md         # Project documentation
 ```
 
+## Additional Information
+- The `+` symbol, when clicked:
+  - 1st click will display days.
+  - 2nd click will display hours.
+  - 3rd click will display minutes.
+
 ## Contributing
 Feel free to fork this repository, create a feature branch, and submit a pull request with your changes.
 
